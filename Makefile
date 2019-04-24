@@ -3,7 +3,7 @@ input01 = roff/the_special_counsels_investigation.roff
 ch00    = pdf/summary.pdf
 ch01    = pdf/the_special_counsels_investigation.pdf
 
-TARGETS = $(ch01) $(ch02)
+TARGETS = $(ch00) $(ch01)
 
 all: $(TARGETS)
 
